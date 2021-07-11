@@ -6,29 +6,29 @@
 
 First view of app
 
-![](/Users/celeglow/Desktop/githubgit/Goal/res/res-1.png)
+![](https://github.com/Zhouyuankun/GoalApp/blob/main/res/res-1.png?raw=true)
 
 Tap the blue add button on the right top of the screen, the edit view pop-up.(You will know why we have to set color shortly after)
 
 
 
-![](/Users/celeglow/Desktop/githubgit/Goal/res/res-2.png)
+![](https://github.com/Zhouyuankun/GoalApp/blob/main/res/res-2.png)
 
 Sure it will sort for you automatically
 
-![](/Users/celeglow/Desktop/githubgit/Goal/res/res-3.png)
+![](https://github.com/Zhouyuankun/GoalApp/blob/main/res/res-3.png)
 
 After you tap any row, you will come to the detailed view(Oh the two colors mix with gradient!!!)
 
-![](/Users/celeglow/Desktop/githubgit/Goal/res/res-4.png)
+![](https://github.com/Zhouyuankun/GoalApp/blob/main/res/res-4.png)
 
 Tap the card(except the area of "Details" text), it will zoom out to fill the width of your screen, which gives you a better look of the infomation. Also, done is increase by 1.(In other words, you can increase your "done" by tap the card)
 
-![](/Users/celeglow/Desktop/githubgit/Goal/res/res-5.png)
+![](https://github.com/Zhouyuankun/GoalApp/blob/main/res/res-5.png)
 
 If you tap the "Details", you will meet the modification page to change anything you want.
 
-![](/Users/celeglow/Desktop/githubgit/Goal/res/res-6.png)
+![](https://github.com/Zhouyuankun/GoalApp/blob/main/res/res-6.png)
 
 Thats all for the app
 
