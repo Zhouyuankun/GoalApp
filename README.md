@@ -1,7 +1,5 @@
 # First build of an iOS APP - Goal
 
----------
-
 > Note: This app is aimed to help you record your tasks, which need to repeat several times before due date.
 
 ## Introduction
